@@ -12,3 +12,5 @@ The IntelligentSIDC must implement the following methods: <br>
   7. nextKey(IntelligentSIDC,key): return the key for the successor of key<br>
   8. prevKey(IntelligentSIDC,key): return the key for the predecessor of key<br>
   9. rangeKey(key1, key2): returns the number of keys that are within the specified range of the two keys key1 and key2.
+  
+Here's the report related to the above mentioned problem. [Report](Code/Report.pdf)
